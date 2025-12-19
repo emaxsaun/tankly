@@ -1,6 +1,6 @@
 # Tankly Privacy Policy
 
-**Last updated: December 18, 2024**
+**Last updated: December 18, 2025**
 
 ## Overview
 Tankly ("we", "our", or "the app") is committed to protecting your privacy. This policy explains how we handle your data.
