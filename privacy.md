@@ -40,7 +40,7 @@ You can delete all your data at any time using the "Reset All Data" option in th
 We may update this privacy policy from time to time. Changes will be reflected by updating the "Last updated" date.
 
 ## Contact
-For privacy questions or concerns, contact: [your email or GitHub profile]
+For privacy questions or concerns, contact: https://github.com/emaxsaun/
 
 ---
 
